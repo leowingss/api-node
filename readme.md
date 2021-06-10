@@ -60,7 +60,7 @@ json
   - Atualizar usuário - [PUT]    `/usuarios/:id`
   - Apagar usuário    - [DELETE] `/usuarios/:id`
 ```
- - Criar collections no POSTMAN
+ - [ ] Criar collections no POSTMAN
  - Criar rotas
  - Criar Controller
  - Criar Service
